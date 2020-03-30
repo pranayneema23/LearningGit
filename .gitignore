@@ -1,0 +1,12 @@
+#Demo/Example
+
+.DS_Store
+*.zip
+*.gz
+log/*.log	
+log/*.log.[0-9]
+assets/photoshops/
+assets/videos/
+#This file is not ignored
+!assets/videos/tour_*.mp4
+access.log
