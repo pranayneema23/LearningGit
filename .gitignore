@@ -10,3 +10,4 @@ assets/videos/
 #This file is not ignored
 !assets/videos/tour_*.mp4
 access.log
+db_config.txt
