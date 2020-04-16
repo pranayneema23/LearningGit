@@ -1,2 +1,3 @@
 # LearningGit
-Learn GIT commands and create Sand-Box repo
+
+This file contains notes from [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics)
